@@ -1,4 +1,4 @@
-# M3O Go Client [![godoc](https://godoc.org/github.com/micro/micro-go?status.svg)](https://godoc.org/github.com/micro/micro-go) [![Go Report Card](https://goreportcard.com/badge/github.com/micro/micro-go)](https://goreportcard.com/report/github.com/micro/micro-go) [![Apache 2.0 License](https://img.shields.io/github/license/micro/micro-go)](https://github.com/micro/micro-go/blob/master/LICENSE)
+# Micro Go Client [![godoc](https://godoc.org/github.com/micro/micro-go?status.svg)](https://godoc.org/github.com/micro/micro-go) [![Go Report Card](https://goreportcard.com/badge/github.com/micro/micro-go)](https://goreportcard.com/report/github.com/micro/micro-go) [![Apache 2.0 License](https://img.shields.io/github/license/micro/micro-go)](https://github.com/micro/micro-go/blob/master/LICENSE)
 
 This is the Go client to access APIs on the Micro Platform
 
